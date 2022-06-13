@@ -1,0 +1,24 @@
+{
+    "ee_ce": [
+        {
+            "time": "12:30 PM - 12:45 PM",
+            "projectId": "ee-1230-1",
+            "title": "Project Title",
+            "studentName": "Student Name",
+            "studentMajor": "Electrical Engineering",
+            "projectType": "Project Type",
+            "facultyAdvisor": "Dr.",
+            "posterLink": "./posters/placeholder/capstone BIO poster.PNG"
+        },
+        {
+            "time": "12:30 PM - 12:45 PM",
+            "projectId": "ee-1230-2",
+            "title": "Project Title",
+            "studentName": "Student Name",
+            "studentMajor": "Computer Engineering",
+            "projectType": "Project Type",
+            "facultyAdvisor": "Dr.",
+            "posterLink": "./posters/placeholder/capstone BIO poster.PNG"
+        }
+    ]
+}

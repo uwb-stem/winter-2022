@@ -1,0 +1,64 @@
+{
+    "ac": [
+        {
+            "time": "12:35 PM - 1:00 PM",
+            "projectId": "ac-1235-1",
+            "title": "Aggressive Calendar",
+            "studentName": "Mae Barbee",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/Mae Barbee.jpg"
+        },
+        {
+            "time": "12:35 PM - 1:00 PM",
+            "projectId": "ac-1235-2",
+            "title": "JAM Stack Ecommerce Website",
+            "studentName": "Chaolun Feng",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/Chaolun Feng.jpg"
+        },
+        {
+            "time": "12:35 PM - 1:00 PM",
+            "projectId": "ac-1235-3",
+            "title": "Building a Two-factor Authentication & Email Microservice",
+            "studentName": "Kwun Lin",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/Kwun Lin2.png"
+        },
+        {
+            "time": "12:35 PM - 1:00 PM",
+            "projectId": "ac-1235-4",
+            "title": "Designing Immersive Flashcards",
+            "studentName": "Jay Quedado",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/Jay Quedado.png"
+        },
+        {
+            "time": "12:35 PM - 1:00 PM",
+            "projectId": "ac-1235-5",
+            "title": "Idea Catcher",
+            "studentName": "Jean Suwatcharoenchai",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/Jean Suwatcharoenchai.png"
+        },
+        {
+            "time": "12:35 PM - 1:00 PM",
+            "projectId": "ac-1235-6",
+            "title": "Prevent Student Droupout Using Machine Learning",
+            "studentName": "Baochau Tran",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/Baochau Tran.png"
+        }
+    ]
+}

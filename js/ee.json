@@ -1,0 +1,264 @@
+{
+    "ee": [
+        {
+            "time": "9:10 AM - 9:34 AM",
+            "projectId": "ee-910-1",
+            "title": "Kombudroid",
+            "studentName": "Hashim Khalid",
+            "studentMajor": "BSEE / CSSE & Math Minor",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Imen Hannachi",
+            "posterLink": "./posters/ee_ce/Friedrich Stormfg.JPG"
+        },
+        {
+            "time": "9:10 AM - 9:34 AM",
+            "projectId": "ee-910-2",
+            "title": "Kombudroid",
+            "studentName": "Abdirahim Idan",
+            "studentMajor": "BSEE",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Imen Hannachi",
+            "posterLink": "./posters/ee_ce/Friedrich Stormfg.JPG"
+        },
+        {
+            "time": "9:10 AM - 9:34 AM",
+            "projectId": "ee-910-3",
+            "title": "Kombudroid",
+            "studentName": "Friedrich Gruber",
+            "studentMajor": "BSEE / CSSE Minor",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Imen Hannachi",
+            "posterLink": "./posters/ee_ce/Friedrich Stormfg.JPG"
+        },
+        {
+            "time": "9:10 AM - 9:34 AM",
+            "projectId": "ee-910-4",
+            "title": "Kombudroid",
+            "studentName": "Kyrsten Thomas",
+            "studentMajor": "BSEE / CSSE & Math Minor",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Imen Hannachi",
+            "posterLink": "./posters/ee_ce/Friedrich Stormfg.JPG"
+        },
+        {
+            "time": "9:35 AM - 9:59 AM",
+            "projectId": "ee-935-1",
+            "title": "Master Controller for High - Energy Electron Source",
+            "studentName": "Tuan Nguyen",
+            "studentMajor": "BSEE",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Wayne Kimura",
+            "posterLink": "./posters/ee_ce/Mason Harrison Capstone Slide.PNG"
+        },
+        {
+            "time": "9:35 AM - 9:59 AM",
+            "projectId": "ee-935-2",
+            "title": "Master Controller for High - Energy Electron Source",
+            "studentName": "Mason Harrison",
+            "studentMajor": "BSEE / CSSE Minor",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Wayne Kimura",
+            "posterLink": "./posters/ee_ce/Mason Harrison Capstone Slide.PNG"
+        },
+        {
+            "time": "10:00 AM - 10:24 AM",
+            "projectId": "ee-1000-1",
+            "title": "Master Controller for High - Energy Electron Source, Part II",
+            "studentName": "Esayas Abera",
+            "studentMajor": "Electrical Engineering",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Wayne Kimura",
+            "posterLink": "./posters/ee_ce/Jay Vakil.png"
+        },
+        {
+            "time": "10:00 AM - 10:24 AM",
+            "projectId": "ee-1000-2",
+            "title": "Master Controller for High - Energy Electron Source, Part II",
+            "studentName": "Jay Darshan Vakil",
+            "studentMajor": "Electrical Engineering",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Wayne Kimura",
+            "posterLink": "./posters/ee_ce/Jay Vakil.png"
+        },
+        {
+            "time": "10:00 AM - 10:24 AM",
+            "projectId": "ee-1000-3",
+            "title": "Master Controller for High - Energy Electron Source, Part II",
+            "studentName": "Cyrus Safi",
+            "studentMajor": "Electrical Engineering",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Wayne Kimura",
+            "posterLink": "./posters/ee_ce/Jay Vakil.png"
+        },
+        {
+            "time": "10:25 AM - 10:49 AM",
+            "projectId": "ee-1025-1",
+            "title": "E.V. ADOPTION ANALYZER, PART 2",
+            "studentName": "Nicholas Wright",
+            "studentMajor": "BSEE",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Steve Larson",
+            "posterLink": "./posters/ee_ce/EV Adoption Slide - Claire Hsu.jpg"
+        },
+        {
+            "time": "10:25 AM - 10:49 AM",
+            "projectId": "ee-1025-2",
+            "title": "E.V. ADOPTION ANALYZER, PART 2",
+            "studentName": "Claire Hsu",
+            "studentMajor": "BSEE / CSSE Minor",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Steve Larson",
+            "posterLink": "./posters/ee_ce/EV Adoption Slide - Claire Hsu.jpg"
+        },
+        {
+            "time": "10:25 AM - 10:49 AM",
+            "projectId": "ee-1025-3",
+            "title": "E.V. ADOPTION ANALYZER, PART 2",
+            "studentName": "Norbu Sangpo",
+            "studentMajor": "BSEE",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Steve Larson",
+            "posterLink": "./posters/ee_ce/EV Adoption Slide - Claire Hsu.jpg"
+        },
+        {
+            "time": "10:25 AM - 10:49 AM",
+            "projectId": "ee-1025-4",
+            "title": "E.V. ADOPTION ANALYZER, PART 2",
+            "studentName": "Cameron Norris",
+            "studentMajor": "BSSE / CSSE & Math Minor",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Steve Larson",
+            "posterLink": "./posters/ee_ce/EV Adoption Slide - Claire Hsu.jpg"
+        },
+        {
+            "time": "11:00 AM - 11:24 AM",
+            "projectId": "ee-1100-1",
+            "title": "The Silencer",
+            "studentName": "Peter Barnes",
+            "studentMajor": "BSEE / Math Minor",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Arnie Berger",
+            "posterLink": "./posters/ee_ce/George Cheruvathur.jpg"
+        },
+        {
+            "time": "11:00 AM - 11:24 AM",
+            "projectId": "ee-1100-2",
+            "title": "The Silencer",
+            "studentName": "George Cheruvathur",
+            "studentMajor": "BSCE / Math Minor",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Arnie Berger",
+            "posterLink": "./posters/ee_ce/George Cheruvathur.jpg"
+        },
+        {
+            "time": "11:25 AM - 11:49 AM",
+            "projectId": "ee-1125-1",
+            "title": "Electric Boat Conversion",
+            "studentName": "Lauren Walker",
+            "studentMajor": "BSEE / CSSE Minor",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Joe Decuir",
+            "posterLink": "./posters/ee_ce/Austen Clair Poster.png"
+        },
+        {
+            "time": "11:25 AM - 11:49 AM",
+            "projectId": "ee-1125-2",
+            "title": "Electric Boat Conversion",
+            "studentName": "Austen Clair",
+            "studentMajor": "BSEE",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Joe Decuir",
+            "posterLink": "./posters/ee_ce/Austen Clair Poster.png"
+        },
+        {
+            "time": "11:25 AM - 11:49 AM",
+            "projectId": "ee-1125-3",
+            "title": "Electric Boat Conversion",
+            "studentName": "Kuai Fan",
+            "studentMajor": "BSEE",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Joe Decuir",
+            "posterLink": "./posters/ee_ce/Austen Clair Poster.png"
+        },
+        {
+            "time": "11:25 AM - 11:49 AM",
+            "projectId": "ee-1125-4",
+            "title": "Electric Boat Conversion",
+            "studentName": "Jamie Jackson",
+            "studentMajor": "BSEE / CSSE Minor",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Joe Decuir",
+            "posterLink": "./posters/ee_ce/Austen Clair Poster.png"
+        },
+        {
+            "time": "11:50 AM - 12:14 PM",
+            "projectId": "ee-1150-1",
+            "title": "Greenhouse Heating",
+            "studentName": "Abdulrazig Alawad",
+            "studentMajor": "BSEE",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Rick Cordray",
+            "posterLink": "./posters/ee_ce/Terry Tran.jpg"
+        },
+        {
+            "time": "11:50 AM - 12:14 PM",
+            "projectId": "ee-1150-2",
+            "title": "Greenhouse Heating",
+            "studentName": "William Chau",
+            "studentMajor": "BSEE / Math Minor",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Rick Cordray",
+            "posterLink": "./posters/ee_ce/Terry Tran.jpg"
+        },
+        {
+            "time": "11:50 AM - 12:14 PM",
+            "projectId": "ee-1150-3",
+            "title": "Greenhouse Heating",
+            "studentName": "Ibrahim Hashim",
+            "studentMajor": "BSEE / CSSE & Math Minor",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Rick Cordray",
+            "posterLink": "./posters/ee_ce/Terry Tran.jpg"
+        },
+        {
+            "time": "11:50 AM - 12:14 PM",
+            "projectId": "ee-1150-4",
+            "title": "Greenhouse Heating",
+            "studentName": "Terry Tran",
+            "studentMajor": "BSEE / CSSE Minor",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Rick Cordray",
+            "posterLink": "./posters/ee_ce/Terry Tran.jpg"
+        },
+        {
+            "time": "12:15 PM - 12:39 PM",
+            "projectId": "ee-1215-1",
+            "title": "RF Controller-II",
+            "studentName": "Kyle Weaver",
+            "studentMajor": "BSEE",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Wayne Kimura",
+            "posterLink": "./posters/ee_ce/Kyle Charles Weaver.jpeg"
+        },
+        {
+            "time": "12:15 PM - 12:39 PM",
+            "projectId": "ee-1215-2",
+            "title": "RF Controller-II",
+            "studentName": "Robert Wiley",
+            "studentMajor": "BSEE",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Wayne Kimura",
+            "posterLink": "./posters/ee_ce/Kyle Charles Weaver.jpeg"
+        },
+        {
+            "time": "12:15 PM - 12:39 PM",
+            "projectId": "ee-1215-3",
+            "title": "RF Controller-II",
+            "studentName": "Alexander Kattakayam",
+            "studentMajor": "BSEE",
+            "projectType": "Engineering",
+            "facultyAdvisor": "Dr. Wayne Kimura",
+            "posterLink": "./posters/ee_ce/Kyle Charles Weaver.jpeg"
+        }
+    ]
+}

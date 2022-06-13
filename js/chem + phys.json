@@ -1,0 +1,64 @@
+{
+    "phys": [
+        {
+            "time": "1:05 PM - 1:20 PM",
+            "projectId": "phys-105",
+            "title": "Benzene Cancer Risk Evaluation",
+            "studentName": "Kaitlin Thompson",
+            "studentMajor": "Chemistry",
+            "projectType": "Chemistry",
+            "facultyAdvisor": "Dr. Dan Jaffe",
+            "posterLink": "./posters/chem + phys/Kaitlin Thompson.png"
+        },
+        {
+            "time": "1:20 PM - 1:35 PM",
+            "projectId": "phys-120",
+            "title": "Normalization of Quasars in the Search for Extremely High-Velocity Outflows",
+            "studentName": "Mikel Charles",
+            "studentMajor": "Mathematics",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Paola Rodríguez Hidalgo",
+            "posterLink": "./posters/chem + phys/Mikel Charles Poster_page-0001.jpg"
+        },
+        {
+            "time": "1:35 PM - 1:50 PM",
+            "projectId": "phys-135",
+            "title": "Time Analysis of the June 25th PNW Heatwave",
+            "studentName": "Christopher McJunkin",
+            "studentMajor": "Physics",
+            "projectType": "Project Type",
+            "facultyAdvisor": "Dr. Eric Salathe ",
+            "posterLink": "./posters/chem + phys/Chris McJunkin Poster.png"
+        },
+        {
+            "time": "1:50 PM - 2:05 PM",
+            "projectId": "phys-150",
+            "title": "Inferring the Neutron Star Maximum Mass and Lower Mass Gap in Spinning Neutron Star-Black Hole Systems ",
+            "studentName": "Christine Ye",
+            "studentMajor": "Eastlake High School",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Joey Key",
+            "posterLink": "./posters/chem + phys/Christine Ye Poster.png"
+        },
+        {
+            "time": "2:05 PM - 2:20 PM",
+            "projectId": "phys-205",
+            "title": "Building a Pulsar Detection Model",
+            "studentName": "Praveer Jain",
+            "studentMajor": "Eastside Preparatory School ",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Joey Key",
+            "posterLink": "./posters/chem + phys/Praveer jain Poster.PNG"
+        },
+        {
+            "time": "2:20 PM - 2:35 PM",
+            "projectId": "phys-220",
+            "title": "Indoor Air Quality",
+            "studentName": "Natalie Salazar",
+            "studentMajor": "Earth & Space Sciences",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Dan Jaffe",
+            "posterLink": "./posters/chem + phys/Natalie Salazar.jpg"
+        }
+    ]
+}

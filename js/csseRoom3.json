@@ -1,0 +1,103 @@
+{
+    "csse": [
+        {
+            "time": "12:30 PM - 12:45 PM",
+            "projectId": "csse-3-1230",
+            "title": "Identification of Security Design Patterns",
+            "studentName": "Kevin Nguyen",
+            "studentMajor": "CSSE",
+            "projectType": "UWB CSS Faculty Research",
+            "facultyAdvisor": "Dr. Hazeline Asuncion",
+            "posterLink": "./posters/csse/Kevin Nguyen.png",
+            "abstract": "My research project for the capstone centers around our developed lightweight software system, PatternScout, in order to detect security design patterns from open-source repository and see if the project has an obvious software vulnerability. \n\nMy role during the research was to assist on accumulating open-source projects, mostly on GitHub, and manually check through the walls of code to see if the open-source project contained any specific security design patterns. After gathering the open-source projects, I had to assist on CWE-Security Mapping, which involved mapping a common software weakness to a security design pattern that could mitigate the problem. At the same time, I also had to assist on grouping security design patterns together to match a categories of common software weakness.\n\nThe reason I had to manually check the code is so that I could report the result to my peers and see if PatternScout could also detect the same result. It is expected that PatternScout works well, but we must make sure that the results that the PatternScout has found are closely related to our manual result. It is also equally important to assist on the CWE-Security Mapping in order to deeply analyze and understand how security design patterns could be the main solution to prevent common software weaknesses. \n\nThe evaluation of mapping security design patterns to some common software weaknesses results in the creation of the “Security Pattern Discovery to Mitigate Vulnerability” (SPDMV) algorithm. Because of the testing on open-source projects to get results, the algorithm can recommend security patterns for the most frequently occurring CWE vulnerabilities. \n\nThe significance is that it allows software engineers to detect if they have a security design in their code to make sure that common vulnerabilities never happen to the software. It could also potentially save time and resource when detecting weaknesses during the beginning stage of code implementation. Throughout my time, the research has allowed me to see how code structures are designed in many open-source projects. I have also understood the importance of code design in order to optimize solutions and prevent problems."
+        },
+        {
+            "time": "12:45 PM - 1:00 PM",
+            "projectId": "csse-3-1245",
+            "title": "Evaluation of Design Pattern Detection Software",
+            "studentName": "Logan Petersen",
+            "studentMajor": "CSSE",
+            "projectType": "UWB CSS Faculty Research",
+            "facultyAdvisor": "Dr. Hazeline Asuncion",
+            "posterLink": "./posters/csse/Logan Petersen2.jpg",
+            "abstract": "The research project, the evaluation of design pattern detection software, accomplished its goal. Software design patterns are well known solutions to problems that arise while designing software. There are 23 different design patterns, and each has multiple variants. The goal of the project was to compare PatternScout, a tool created by UWB, with other design pattern detection tools for publication. The value of this research goes beyond just meeting requirements, though. PatternScout is highly adaptable and can be improved by the evaluation. If a specific tool outperforms PatternScout on a specific Gang of Four pattern, we can determine how to improve it. Furthermore, the evaluation demonstrates what happens to software over time and gives us insight on how to avoid it with our own tool.\n\nEleven tools were evaluated. However, only four tools were functional, due to various issues ranging from the tool being no longer available to download to the tool dependencies no longer existing. Of these four tools, only two were benchmarked due to lack of documentation that was updated too late to be of use or the tool was deemed by its creators to be out of date and, as a result, should not be benchmarked. We learned how to ensure that PatternScout will not face the same issue, primarily by creating a Docker container."
+        },
+        {
+            "time": "1:00 PM - 1:15 PM",
+            "projectId": "csse-3-100",
+            "title": "Services Content Team Intern Project at Vizio",
+            "studentName": "Ahmed Khan",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship - Vizio",
+            "facultyAdvisor": "Dr. Robert Dimpsey",
+            "posterLink": "./posters/csse/Ahmed Khan.jpg",
+            "abstract": "Currently, many people enjoy putting on their favorite movies or streaming their favorite channels effortlessly. The project I had at VIZIO was related to this but instead of dealing directly with the interface the user was consuming the entertainment on I worked on the Services and Content team dealing with the API and backend. This means that the changes my team and I worked on do not depend on any specific implementation (Mobile, TV, etc) and instead send HTTP requests to the engineers who do work on the specific implementations. \n\nWhen people stream their channels they inherently expect a smooth experience where the material they are streaming is what they choose and that the experience does not come with latency. \n\nThese expectations that the current users of Watch Free Plus (VIZIO Smartcast free streaming service) has is what I tried to deliver by building a cache so that certain API endpoints could be hit quicker, thus quicker delivery of content to the end-user, as well as contributing test cases to a major ETL internal project with the goal being to decrease latency. Ultimately the results of both of these actions were great with latency decreasing fairly significantly with the test cases ensuring that the integrity of the data stayed the same. The caching mechanism that was built also increased response times for certain endpoints very significantly.\n\nDue to these efforts, customers who own a VIZIO SmartCast TV and use Watch Free Plus will enjoy watching their favorite movies, television shows, or streams fast and latency-free."
+        },
+        {
+            "time": "1:15 PM - 1:30 PM",
+            "projectId": "csse-3-115",
+            "title": "Vietnamese Language Learning Web Application",
+            "studentName": "Thong Le",
+            "studentMajor": "CSSE",
+            "projectType": "Individual Project - Student Defined",
+            "facultyAdvisor": "Dr. Robert Dimpsey",
+            "posterLink": "./posters/csse/Thong Hoang Le.png",
+            "abstract": "The Vietnamese Language Learning Web Application is an online platform for Vietnamese American or any user that wants to learn Vietnamese language. The goal is to create an open source and free online tool to supplement lesson plans to address reading, writing, and listening to the Vietnamese language.\n\n My approach for this project was using Django Framework, a modern Python web development tool that is built on top of Web Server Gateway Interface (WSGI) standardized protocol. Then I followed the Django Model-Template-View (MTV) architectural pattern, where Model is an object-relational mapper which mediates between data models and a relational database; Template is a system for processing requests that controlling what should be displayed and how it should be displayed to the user; and View is what handles the user interaction and select a view according to the model.  \n\nFor the end result, this web application will allow users to be able to access and learn lessons online anytime and learn at their own pace. With the help of Mr. Van Le and Ms. Emily Phan supplementing lessons and giving feedback, it was a great opportunity for me to get an experience to build this project. This project helped me learn how to estimate workload, requirements, and an opportunity to learn how to be a Full stack Web Development using Django as a base."
+        },
+        {
+            "time": "1:30 PM - 1:45 PM",
+            "projectId": "csse-3-130",
+            "title": "2022 Liberty Mutual Capstone",
+            "studentName": "Mohammed Ali",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship - Liberty Mutual",
+            "facultyAdvisor": "Dr. Arnold Lund",
+            "posterLink": "./posters/csse/Mohammed Ali2.jpg",
+            "abstract": "Since September 2021, I have been working at Liberty Mutual as part of their TechStart Engineering Rotation program. This experience will allow me to spend 6 months on one team with a group of Techstarters like myself and experience the software engineering environment and learn from our failures. During this time my goal will be to soak in as much as possible from experienced individuals and write some code and deliver the assigned project.\n\nIn this capstone, I accomplished my first project and gained much needed experience in the field of computer science. This is beneficial to me because I experience the full agile software delivery environment. I was put through rigorous experience in producing enterprise level code which meant writing integration and unit tests during development, thinking of security of our application, writing the right amount of comments, and following all git protocol to avoid and merging issues. \n\nIn my project I created a simple frontend UI that allows the user to forcefully run the backend scripts and displayed the results on the screen. I learned a great amount of using cloud tools such as AWS lambda, FSx, DynamoDB, SQS, and API Gateway. We used programming languages such as Typescript and Python. For our frontend we used accelerators to quickly attain results and use libraries such as Angular for Typescript to do so. This experience has taught me the truth of development in the real world and rapid pace really looks like."
+        },
+        {
+            "time": "1:45 PM - 2:00 PM",
+            "projectId": "csse-3-145",
+            "title": "Exploring New iCode Interface - iCode Bellevue",
+            "studentName": "Helina Azer",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Inetnship - iCode Bellevue",
+            "facultyAdvisor": "Dr. Arnold Lund",
+            "posterLink": "./posters/csse/Helina Azer.png",
+            "abstract": "For my capstone project, I worked at iCode Bellevue as a Technical Lead. iCode is an afterschool program designed to teach kids coding, along with other soft skills through a martial arts style belt system. During this internship, I worked on developing a user-friendly website for our iCode location. Part of my job is to also teach some classes related to programming, robotics, and software and hardware principles.\n\niCode Bellevue currently has a website; however, iCode Bellevue cannot modify any of the content on the existing website. Because the existing website is not as user-friendly and does not contain up-to-date information, I was asked to create a new website for iCode Bellevue that provides accurate information regarding our hours, schedule, programs, and frequently asked questions. \n\nAlthough I am still unable to publish the final website, I have conducted multiple usability tests in order to test the final website I developed and ensure its user-friendliness. My capstone sponsor has also looked at the final implementation and has tested it to make sure I included all the content needed. Conducting the various usability tests ensures that users will be satisfied and will easily be able to find the information they are looking for.\n\nThe development of a new website was essential because we wanted to ensure user satisfaction and ease of mind while using the website. If our users struggle to find information about the place and the programs we offer, they will eventually give up and not be interested in iCode. By starting with an attractive website, this will draw more people to iCode and will make parents interested in bringing their kids to iCode.\n\nMy time at iCode Bellevue was very beneficial as I learned different web development skills as well as programing and robotics skills that I would have not learned if I had not participated in such opportunity."
+        },
+        {
+            "time": "2:00 PM - 2:15 PM",
+            "projectId": "csse-3-200",
+            "title": "Bill Pay Rewrite",
+            "studentName": "Vanshika Kumar",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship - SoFi",
+            "facultyAdvisor": "Dr. Jeffrey Kim",
+            "posterLink": "./posters/csse/Vanshika Kumar.jpg",
+            "abstract": "This document has been written to detail the 497 Capstone Project developed by Vanshika Kumar during the Summer quarter of 2021, Fall quarter of 2021 and Winter quarter of 2022.\n\nThe project was a rewrite of the BillPay feature which was created to take the existing flow, written in two different languages and rewrite it into a new language framework.\n\nWith the completion of the project came the understanding of how hard this conversion truly is in the SoFi ecosystem. The completion of this project also is accompanied by the knowledge  of the BillPay system and all of its inner workings, the knowledge of the framework language flutter and finally the software development process at SoFi. At the end of the internship the rewrite was almost complete with a few small bugs remaining and was awaiting the release process of the company.\n\nThis document covers the type of project developed, the stages of development taken, and the final results of this project. Furthermore, it will provide insight into the difficulties faced and the lessons learned in order to display the value gained by me during the development phase. Overall, this report should display the culmination of the Computer Science and Engineering knowledge gained during my time at SoFi. "
+        },
+        {
+            "time": "2:15 PM - 2:30 PM",
+            "projectId": "csse-3-215",
+            "title": "Surveillance Camera Detection",
+            "studentName": "Jaedan Parsons",
+            "studentMajor": "CSSE",
+            "projectType": "UWB CSS Faculty Research",
+            "facultyAdvisor": "Dr. Brent Lagesse",
+            "posterLink": "./posters/csse/Jaedan Parsons.png",
+            "abstract": "Hidden cameras have become increasingly easy to get, making secretive surveillance of people more common and harder to detect.  Most work with detecting hidden cameras is only useful in enclosed environments in which the user has control.  By comparing the data from the hidden cameras Wi-Fi signals to the signal from a real-time camera in the user’s possession, like a phone or computer camera you could accurately determine if there is another camera watching you.  \n\nWe applied several similarity measures to analyze the patterns coming from both cameras.  In order to compare the video signals, we convert the video signals to DNA sequences, these sequences are then compared using the algorithms in Biopython.  We tuned the algorithms to adjust the scoring of the signal differences, instead of scoring all the mismatched values the same.  This will allow the program to have more flexibility to deal with slight differences between the hidden camera's video and the user's video camera. \n\nWhile differences between changing the score have been seen, in the current stage of testing there are currently billions of different combinations that are being returned that still must be narrowed down in order to get an accurate picture of where the algorithm thinks the videos overlap.  The next steps could involve relating neighboring DNA values and ranking the match score based on the increase or decrease of data, this would account for lighting and the difference in perspective and distance of the cameras."
+        },
+        {
+            "time": "2:30 PM - 2:45 PM",
+            "projectId": "csse-3-230",
+            "title": "Effinitytech Web Development Internship",
+            "studentName": "Dylan Thibault",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship - Efinity Technologies",
+            "facultyAdvisor": "Dr. Kelvin Sung",
+            "posterLink": "./posters/csse/Dylan Thibault.png",
+            "abstract": "For my capstone internship, I was hired as a full stack software developer at a local website development company. Efinity Technologies hired me for this role because they needed a developer who could support all facets of web development, and as such I was responsible for development on the frontend and backend of websites, as well as the development of localized desktop applications and tools. Throughout my internship I worked on multiple projects which tied these three development techniques together in interesting and unique ways which helped me learn how to be a better full stack developer.\n\nDuring my internship I worked on three major projects as well as some side projects that filled the downtime between bigger tasks. My first task once I was hired was to develop a system to remind users when they abandoned their online shopping cart on one of our websites. This was incredibly impactful for our clients as they were able to obtain more orders through this service, and personally it was really engaging as I needed to tie each client website to their management portal, and then combine data from each of those in a server-run microservice which manages the leftover carts and sends reminder emails to the users.\n\nThe other two projects I worked on were less focused on creating new software and more focused on updating existing sites with new functionality. With these, I spent time learning and implementing OAuth authentication as well as learning how to effectively use Visual Studio development and debug tools to track down issues within preexisting code. Being able to work in an environment with an existing codebase was very helpful in expanding my understanding of system design and overall maintenance.\n\nThis internship overall greatly widened my knowledge and experience working with complex and tightly integrated systems. Due to the broad range of technologies and platforms used in the projects I worked on, I was able to gain a colossal amount of real-world experience working with many differing technologies and systems I had not been exposed to previously."
+        }
+    ]
+}
